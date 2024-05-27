@@ -1,0 +1,6 @@
+configparser
+line-bot-sdk
+flask
+azure-ai-translation-text
+azure-cognitiveservices-speech
+librosa
